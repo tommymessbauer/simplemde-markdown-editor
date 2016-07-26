@@ -21,9 +21,9 @@
     "url": "https://github.com/NextStepWebs/simplemde-markdown-editor/issues"
   },
   "dependencies": {
-    "codemirror": "*",
-    "codemirror-spell-checker": "*",
-    "marked": "*"
+    "codemirror": "5.17.0",
+    "codemirror-spell-checker": "1.1.2",
+    "marked": "0.3.5"
   },
   "devDependencies": {
     "browserify": "*",
